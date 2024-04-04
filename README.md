@@ -1,1 +1,1 @@
-# Analytical-SQL
+This repository contains resources and files for an Analytical SQL Case Study focused on customer purchasing transactions. The objective of this case study is to gain insights into customer behavior to enhance sales revenue, improve customer retention, and reduce churn. Using SQL analytical functions, participants are tasked with analyzing the provided dataset to extract valuable information and make data-driven decisions.
